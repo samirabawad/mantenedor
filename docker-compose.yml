@@ -1,0 +1,7 @@
+name: mantenedor-salaventas
+services:
+  mantenedorsalaventas:
+    container_name: mantenedor-salaventas
+    image: mantenedor-salaventas:v1
+    networks:
+      - qa-network

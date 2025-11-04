@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Mantenedor_oficial_salaventasOLD.Controllers.UsuarioController",
+    "Method": "RegistrarUsuario",
+    "RelativePath": "api/Usuario/registrar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "Mantenedor_oficial_salaventasOLD.Application.UsuarioDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

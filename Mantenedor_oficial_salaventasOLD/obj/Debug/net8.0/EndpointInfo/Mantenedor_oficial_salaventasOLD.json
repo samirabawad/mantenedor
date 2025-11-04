@@ -1,0 +1,132 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Mi API",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Usuario/registrar": {
+      "post": {
+        "tags": [
+          "Usuario"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UsuarioDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UsuarioDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UsuarioDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "UsuarioDTO": {
+        "type": "object",
+        "properties": {
+          "nombreUsuario": {
+            "type": "string",
+            "nullable": true
+          },
+          "codUnidad": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          },
+          "idPerfil": {
+            "type": "string",
+            "nullable": true
+          },
+          "rutNum": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "rutDgv": {
+            "type": "string"
+          },
+          "nombres": {
+            "type": "string",
+            "nullable": true
+          },
+          "apellido1": {
+            "type": "string",
+            "nullable": true
+          },
+          "apellido2": {
+            "type": "string",
+            "nullable": true
+          },
+          "activo": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "vigencia": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "intentos": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "mail": {
+            "type": "string",
+            "nullable": true
+          },
+          "anexo": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "isTempPass": {
+            "type": "boolean"
+          },
+          "vigenciaPass": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "fecAcceso": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "securitySchemes": {
+      "ApiKey": {
+        "type": "apiKey",
+        "description": "API Key necesaria para acceder a los endpoints. X-API-Key: {token}",
+        "name": "X-API-Key",
+        "in": "header"
+      }
+    }
+  },
+  "security": [
+    {
+      "ApiKey": [ ]
+    }
+  ]
+}

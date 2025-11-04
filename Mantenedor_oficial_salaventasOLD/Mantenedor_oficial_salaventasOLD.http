@@ -1,0 +1,6 @@
+@Mantenedor_oficial_salaventasOLD_HostAddress = http://localhost:5097
+
+GET {{Mantenedor_oficial_salaventasOLD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

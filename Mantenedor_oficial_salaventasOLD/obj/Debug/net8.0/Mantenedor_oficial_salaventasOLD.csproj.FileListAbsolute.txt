@@ -1,0 +1,627 @@
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\appsettings.json
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.staticwebassets.endpoints.json
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.exe
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.deps.json
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.runtimeconfig.json
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.dll
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.pdb
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.csproj.AssemblyReference.cache
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.AssemblyInfoInputs.cache
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.AssemblyInfo.cs
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.csproj.CoreCompileInputs.cache
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\scopedcss\bundle\Mantenedor_oficial_salaventasOLD.styles.css
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantened.DD6A1A41.Up2Date
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.dll
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\refint\Mantenedor_oficial_salaventasOLD.dll
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.pdb
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.genruntimeconfig.cache
+C:\Users\sawad\source\repos\Mantenedor_oficial_salaventasOLD\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\ref\Mantenedor_oficial_salaventasOLD.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\appsettings.json
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.staticwebassets.endpoints.json
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.exe
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.deps.json
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.runtimeconfig.json
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.pdb
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.csproj.AssemblyReference.cache
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.AssemblyInfoInputs.cache
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.AssemblyInfo.cs
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.csproj.CoreCompileInputs.cache
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\scopedcss\bundle\Mantenedor_oficial_salaventasOLD.styles.css
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantened.DD6A1A41.Up2Date
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\refint\Mantenedor_oficial_salaventasOLD.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.pdb
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.genruntimeconfig.cache
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\ref\Mantenedor_oficial_salaventasOLD.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Humanizer.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Oracle.EntityFrameworkCore.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\sawad\Downloads\repositorios_gitlab_dicrep\SALA VENTAS MANTENEDOR NEW\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\appsettings.Development.json
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\appsettings.json
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.staticwebassets.endpoints.json
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.exe
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.deps.json
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.runtimeconfig.json
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.pdb
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Humanizer.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Oracle.EntityFrameworkCore.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.CodeDom.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Text.Json.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.csproj.AssemblyReference.cache
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.AssemblyInfoInputs.cache
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.AssemblyInfo.cs
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.csproj.CoreCompileInputs.cache
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.MvcApplicationPartsAssemblyInfo.cs
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.MvcApplicationPartsAssemblyInfo.cache
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\scopedcss\bundle\Mantenedor_oficial_salaventasOLD.styles.css
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.build.json
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.development.json
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantened.DD6A1A41.Up2Date
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\refint\Mantenedor_oficial_salaventasOLD.dll
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.pdb
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.genruntimeconfig.cache
+C:\Trabajo\MantenedorSalaVentas\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\ref\Mantenedor_oficial_salaventasOLD.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\appsettings.Development.json
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\appsettings.json
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.staticwebassets.endpoints.json
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.exe
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.deps.json
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.runtimeconfig.json
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.pdb
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Humanizer.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Oracle.EntityFrameworkCore.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.CodeDom.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Text.Json.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.csproj.AssemblyReference.cache
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.AssemblyInfoInputs.cache
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.AssemblyInfo.cs
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.csproj.CoreCompileInputs.cache
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.MvcApplicationPartsAssemblyInfo.cs
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.MvcApplicationPartsAssemblyInfo.cache
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\scopedcss\bundle\Mantenedor_oficial_salaventasOLD.styles.css
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.build.json
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.development.json
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantened.DD6A1A41.Up2Date
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\refint\Mantenedor_oficial_salaventasOLD.dll
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.pdb
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.genruntimeconfig.cache
+C:\Trabajo\EconomiaCircular\MantenedorSalaVentas\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\ref\Mantenedor_oficial_salaventasOLD.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\appsettings.Development.json
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\appsettings.json
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.staticwebassets.endpoints.json
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.exe
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.deps.json
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.runtimeconfig.json
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mantenedor_oficial_salaventasOLD.pdb
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Humanizer.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Oracle.EntityFrameworkCore.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.CodeDom.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\System.Text.Json.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.csproj.AssemblyReference.cache
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.AssemblyInfoInputs.cache
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.AssemblyInfo.cs
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.csproj.CoreCompileInputs.cache
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.MvcApplicationPartsAssemblyInfo.cs
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.MvcApplicationPartsAssemblyInfo.cache
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\scopedcss\bundle\Mantenedor_oficial_salaventasOLD.styles.css
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.build.json
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.development.json
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantened.DD6A1A41.Up2Date
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\refint\Mantenedor_oficial_salaventasOLD.dll
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.pdb
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\Mantenedor_oficial_salaventasOLD.genruntimeconfig.cache
+C:\Trabajo\01_Proyectos_Activos\MantenedorSalaVentas\Repositorio\Actuales\MantendorOriginal\new_mantenedor_salaventasold\Mantenedor_oficial_salaventasOLD\obj\Debug\net8.0\ref\Mantenedor_oficial_salaventasOLD.dll

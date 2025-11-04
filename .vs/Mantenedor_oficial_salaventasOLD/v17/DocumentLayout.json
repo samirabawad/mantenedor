@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|c:\\trabajo\\01_proyectos_activos\\mantenedorsalaventas\\repositorio\\actuales\\mantendororiginal\\new_mantenedor_salaventasold\\mantenedor_oficial_salaventasold\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|solutionrelative:mantenedor_oficial_salaventasold\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|c:\\trabajo\\01_proyectos_activos\\mantenedorsalaventas\\repositorio\\actuales\\mantendororiginal\\new_mantenedor_salaventasold\\mantenedor_oficial_salaventasold\\repositories\\registrarusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|solutionrelative:mantenedor_oficial_salaventasold\\repositories\\registrarusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|c:\\trabajo\\01_proyectos_activos\\mantenedorsalaventas\\repositorio\\actuales\\mantendororiginal\\new_mantenedor_salaventasold\\mantenedor_oficial_salaventasold\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|solutionrelative:mantenedor_oficial_salaventasold\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|c:\\trabajo\\01_proyectos_activos\\mantenedorsalaventas\\repositorio\\actuales\\mantendororiginal\\new_mantenedor_salaventasold\\mantenedor_oficial_salaventasold\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|solutionrelative:mantenedor_oficial_salaventasold\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|c:\\trabajo\\01_proyectos_activos\\mantenedorsalaventas\\repositorio\\actuales\\mantendororiginal\\new_mantenedor_salaventasold\\mantenedor_oficial_salaventasold\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|solutionrelative:mantenedor_oficial_salaventasold\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|c:\\trabajo\\01_proyectos_activos\\mantenedorsalaventas\\repositorio\\actuales\\mantendororiginal\\new_mantenedor_salaventasold\\mantenedor_oficial_salaventasold\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|solutionrelative:mantenedor_oficial_salaventasold\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|c:\\trabajo\\01_proyectos_activos\\mantenedorsalaventas\\repositorio\\actuales\\mantendororiginal\\new_mantenedor_salaventasold\\mantenedor_oficial_salaventasold\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|solutionrelative:mantenedor_oficial_salaventasold\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|c:\\trabajo\\01_proyectos_activos\\mantenedorsalaventas\\repositorio\\actuales\\mantendororiginal\\new_mantenedor_salaventasold\\mantenedor_oficial_salaventasold\\filters\\apikeyauthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|solutionrelative:mantenedor_oficial_salaventasold\\filters\\apikeyauthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|c:\\trabajo\\01_proyectos_activos\\mantenedorsalaventas\\repositorio\\actuales\\mantendororiginal\\new_mantenedor_salaventasold\\mantenedor_oficial_salaventasold\\application\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|solutionrelative:mantenedor_oficial_salaventasold\\application\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|c:\\trabajo\\01_proyectos_activos\\mantenedorsalaventas\\repositorio\\actuales\\mantendororiginal\\new_mantenedor_salaventasold\\mantenedor_oficial_salaventasold\\interfaces\\iregistrarusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|solutionrelative:mantenedor_oficial_salaventasold\\interfaces\\iregistrarusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|c:\\trabajo\\01_proyectos_activos\\mantenedorsalaventas\\repositorio\\actuales\\mantendororiginal\\new_mantenedor_salaventasold\\mantenedor_oficial_salaventasold\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|solutionrelative:mantenedor_oficial_salaventasold\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|c:\\trabajo\\01_proyectos_activos\\mantenedorsalaventas\\repositorio\\actuales\\mantendororiginal\\new_mantenedor_salaventasold\\mantenedor_oficial_salaventasold\\application\\registrarusuariousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C10FD65-9498-46B6-A2DB-A203532A6B24}|Mantenedor_oficial_salaventasOLD\\Mantenedor_oficial_salaventasOLD.csproj|solutionrelative:mantenedor_oficial_salaventasold\\application\\registrarusuariousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Mantenedor_oficial_salaventasOLD\\appsettings.Development.json",
+              "ToolTip": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\appsettings.Development.json",
+              "RelativeToolTip": "Mantenedor_oficial_salaventasOLD\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-28T20:24:15.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\appsettings.json",
+              "RelativeDocumentMoniker": "Mantenedor_oficial_salaventasOLD\\appsettings.json",
+              "ToolTip": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\appsettings.json",
+              "RelativeToolTip": "Mantenedor_oficial_salaventasOLD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T16:45:26.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Mantenedor_oficial_salaventasOLD\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Mantenedor_oficial_salaventasOLD\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T16:45:09.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Mantenedor_oficial_salaventasOLD\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Mantenedor_oficial_salaventasOLD\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAApwCUAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:44:08.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Program.cs",
+              "RelativeDocumentMoniker": "Mantenedor_oficial_salaventasOLD\\Program.cs",
+              "ToolTip": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Program.cs",
+              "RelativeToolTip": "Mantenedor_oficial_salaventasOLD\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:43:45.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiKeyMiddleware.cs",
+              "DocumentMoniker": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Middleware\\ApiKeyMiddleware.cs",
+              "RelativeDocumentMoniker": "Mantenedor_oficial_salaventasOLD\\Middleware\\ApiKeyMiddleware.cs",
+              "ToolTip": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Middleware\\ApiKeyMiddleware.cs",
+              "RelativeToolTip": "Mantenedor_oficial_salaventasOLD\\Middleware\\ApiKeyMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:43:11.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiKeyAuthAttribute.cs",
+              "DocumentMoniker": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Filters\\ApiKeyAuthAttribute.cs",
+              "RelativeDocumentMoniker": "Mantenedor_oficial_salaventasOLD\\Filters\\ApiKeyAuthAttribute.cs",
+              "ToolTip": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Filters\\ApiKeyAuthAttribute.cs",
+              "RelativeToolTip": "Mantenedor_oficial_salaventasOLD\\Filters\\ApiKeyAuthAttribute.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:41:44.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrarUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Repositories\\RegistrarUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Mantenedor_oficial_salaventasOLD\\Repositories\\RegistrarUsuarioRepository.cs",
+              "ToolTip": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Repositories\\RegistrarUsuarioRepository.cs",
+              "RelativeToolTip": "Mantenedor_oficial_salaventasOLD\\Repositories\\RegistrarUsuarioRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAvwEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:36:46.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRegistrarUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Interfaces\\IRegistrarUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Mantenedor_oficial_salaventasOLD\\Interfaces\\IRegistrarUsuarioRepository.cs",
+              "ToolTip": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Interfaces\\IRegistrarUsuarioRepository.cs",
+              "RelativeToolTip": "Mantenedor_oficial_salaventasOLD\\Interfaces\\IRegistrarUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:36:27.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Mantenedor_oficial_salaventasOLD\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Models\\Usuario.cs",
+              "RelativeToolTip": "Mantenedor_oficial_salaventasOLD\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:36:24.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistrarUsuarioUseCase.cs",
+              "DocumentMoniker": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Application\\RegistrarUsuarioUseCase.cs",
+              "RelativeDocumentMoniker": "Mantenedor_oficial_salaventasOLD\\Application\\RegistrarUsuarioUseCase.cs",
+              "ToolTip": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Application\\RegistrarUsuarioUseCase.cs",
+              "RelativeToolTip": "Mantenedor_oficial_salaventasOLD\\Application\\RegistrarUsuarioUseCase.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:35:54.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Application\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "Mantenedor_oficial_salaventasOLD\\Application\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Trabajo\\01_Proyectos_Activos\\MantenedorSalaVentas\\Repositorio\\Actuales\\MantendorOriginal\\new_mantenedor_salaventasold\\Mantenedor_oficial_salaventasOLD\\Application\\UsuarioDTO.cs",
+              "RelativeToolTip": "Mantenedor_oficial_salaventasOLD\\Application\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:35:40.569Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
