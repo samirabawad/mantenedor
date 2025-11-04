@@ -4,4 +4,8 @@ services:
     container_name: mantenedor-salaventas
     image: mantenedor-salaventas:v1
     networks:
-      - qa-network
+      - dicrep
+
+networks:
+  dicrep:
+    external: true

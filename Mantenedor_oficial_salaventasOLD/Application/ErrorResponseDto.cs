@@ -8,8 +8,8 @@ namespace DICREP.EcommerceSubastas.Application.DTOs.Responses
 {
     public class ErrorResponseDto
     {
-        public int ErrorCode {  get; set; }
-        public string Message { get; set; } 
-        public int? HttpStatusCode { get; set; }
+        public int ErrorCode { get; set; }
+        public string Message { get; set; }
+        public int HttpStatusCode { get; set; }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mantenedor_oficial_salaventasOLD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4183354642f012ed65154ba25f378baab026e72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67ca823f7e6cda3140b65dd891c377d41e801cd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mantenedor_oficial_salaventasOLD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mantenedor_oficial_salaventasOLD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

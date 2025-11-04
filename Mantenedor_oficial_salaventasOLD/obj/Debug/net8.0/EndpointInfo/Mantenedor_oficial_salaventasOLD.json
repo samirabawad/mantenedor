@@ -5,26 +5,101 @@
     "version": "v1"
   },
   "paths": {
-    "/api/Usuario/registrar": {
+    "/api/Usuario/registrar-formulario": {
       "post": {
         "tags": [
           "Usuario"
         ],
         "requestBody": {
           "content": {
-            "application/json": {
+            "application/x-www-form-urlencoded": {
               "schema": {
-                "$ref": "#/components/schemas/UsuarioDTO"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/UsuarioDTO"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/UsuarioDTO"
+                "type": "object",
+                "properties": {
+                  "nombreUsuario": {
+                    "type": "string"
+                  },
+                  "codUnidad": {
+                    "type": "number",
+                    "format": "double"
+                  },
+                  "password": {
+                    "type": "string"
+                  },
+                  "perfil": {
+                    "$ref": "#/components/schemas/PerfilUsuarioEnum"
+                  },
+                  "rutNum": {
+                    "type": "number",
+                    "format": "double"
+                  },
+                  "rutDgv": {
+                    "type": "string"
+                  },
+                  "nombres": {
+                    "type": "string"
+                  },
+                  "apellido1": {
+                    "type": "string"
+                  },
+                  "apellido2": {
+                    "type": "string"
+                  },
+                  "activo": {
+                    "$ref": "#/components/schemas/EstadoActivoEnum"
+                  },
+                  "mail": {
+                    "type": "string"
+                  },
+                  "anexo": {
+                    "type": "number",
+                    "format": "double"
+                  },
+                  "isTempPass": {
+                    "$ref": "#/components/schemas/TipoPasswordEnum"
+                  }
+                }
+              },
+              "encoding": {
+                "nombreUsuario": {
+                  "style": "form"
+                },
+                "codUnidad": {
+                  "style": "form"
+                },
+                "password": {
+                  "style": "form"
+                },
+                "perfil": {
+                  "style": "form"
+                },
+                "rutNum": {
+                  "style": "form"
+                },
+                "rutDgv": {
+                  "style": "form"
+                },
+                "nombres": {
+                  "style": "form"
+                },
+                "apellido1": {
+                  "style": "form"
+                },
+                "apellido2": {
+                  "style": "form"
+                },
+                "activo": {
+                  "style": "form"
+                },
+                "mail": {
+                  "style": "form"
+                },
+                "anexo": {
+                  "style": "form"
+                },
+                "isTempPass": {
+                  "style": "form"
+                }
               }
             }
           }
@@ -32,6 +107,46 @@
         "responses": {
           "200": {
             "description": "OK"
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
           }
         }
       }
@@ -39,80 +154,54 @@
   },
   "components": {
     "schemas": {
-      "UsuarioDTO": {
+      "EstadoActivoEnum": {
+        "enum": [
+          "Inactivo",
+          "Activo"
+        ],
+        "type": "string"
+      },
+      "PerfilUsuarioEnum": {
+        "enum": [
+          "SUPERADMIN",
+          "SUPERVISOR",
+          "CAJERO"
+        ],
+        "type": "string"
+      },
+      "ProblemDetails": {
         "type": "object",
         "properties": {
-          "nombreUsuario": {
+          "type": {
             "type": "string",
             "nullable": true
           },
-          "codUnidad": {
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
             "type": "integer",
-            "format": "int32"
+            "format": "int32",
+            "nullable": true
           },
-          "password": {
+          "detail": {
             "type": "string",
             "nullable": true
           },
-          "idPerfil": {
+          "instance": {
             "type": "string",
-            "nullable": true
-          },
-          "rutNum": {
-            "type": "integer",
-            "format": "int64"
-          },
-          "rutDgv": {
-            "type": "string"
-          },
-          "nombres": {
-            "type": "string",
-            "nullable": true
-          },
-          "apellido1": {
-            "type": "string",
-            "nullable": true
-          },
-          "apellido2": {
-            "type": "string",
-            "nullable": true
-          },
-          "activo": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "vigencia": {
-            "type": "string",
-            "format": "date-time",
-            "nullable": true
-          },
-          "intentos": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "mail": {
-            "type": "string",
-            "nullable": true
-          },
-          "anexo": {
-            "type": "integer",
-            "format": "int64"
-          },
-          "isTempPass": {
-            "type": "boolean"
-          },
-          "vigenciaPass": {
-            "type": "string",
-            "format": "date-time",
-            "nullable": true
-          },
-          "fecAcceso": {
-            "type": "string",
-            "format": "date-time",
             "nullable": true
           }
         },
-        "additionalProperties": false
+        "additionalProperties": { }
+      },
+      "TipoPasswordEnum": {
+        "enum": [
+          "Permanente",
+          "Temporal"
+        ],
+        "type": "string"
       }
     },
     "securitySchemes": {

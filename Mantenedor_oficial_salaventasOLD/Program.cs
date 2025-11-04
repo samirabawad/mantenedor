@@ -1,16 +1,25 @@
-using Mantenedor_oficial_salaventasOLD.Application;
+﻿using Mantenedor_oficial_salaventasOLD.Application;
 using Mantenedor_oficial_salaventasOLD.Interfaces;
+using Mantenedor_oficial_salaventasOLD.Middleware;
 using Mantenedor_oficial_salaventasOLD.Models;
 using Mantenedor_oficial_salaventasOLD.Repositories;
 using Mantenedor_oficial_salaventasOLD.Services;
-using Mantenedor_oficial_salaventasOLD.Middleware;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
+using System.Text.Json.Serialization; // ✅ Agregar este using
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllers();
+// ✅ Configurar controllers para usar strings en enums
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
+    });
+
+
 builder.Services.AddEndpointsApiExplorer();
 
 // Configurar Swagger con soporte para API Key
@@ -26,6 +35,7 @@ builder.Services.AddSwaggerGen(c =>
         Type = SecuritySchemeType.ApiKey,
         Scheme = "ApiKeyScheme"
     });
+
 
     c.AddSecurityRequirement(new OpenApiSecurityRequirement
     {
@@ -64,7 +74,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-// Opci�n 1: Usar middleware global (descomenta si quieres usar esta opci�n)
+// Opción 1: Usar middleware global (descomenta si quieres usar esta opción)
 // app.UseMiddleware<ApiKeyMiddleware>();
 
 app.UseAuthorization();

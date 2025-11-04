@@ -38,19 +38,22 @@ namespace Mantenedor_oficial_salaventasOLD.Repositories
                 {
                     IdUsuario = usuariodto.NombreUsuario,
                     CodUnidad = usuariodto.CodUnidad,
-                    Password = hashedPassword, // ✅ Usar contraseña encriptada
-                    IdPerfil = usuariodto.IdPerfil,
+                    Password = hashedPassword,
+                    // ✅ Convertir enum a string
+                    IdPerfil = usuariodto.IdPerfil.ToString(),
                     RutNum = usuariodto.RutNum,
                     RutDgv = usuariodto.RutDgv.ToString(),
                     Nombres = usuariodto.Nombres,
                     Apellido1 = usuariodto.Apellido1,
                     Apellido2 = usuariodto.Apellido2,
-                    Activo = usuariodto.Activo,
+                    // ✅ Convertir enum a decimal (0 o 1)
+                    Activo = (decimal)usuariodto.Activo,
                     Vigencia = usuariodto.Vigencia,
                     Intentos = usuariodto.Intentos,
                     Mail = usuariodto.Mail,
                     Anexo = usuariodto.Anexo,
-                    IsTempPass = usuariodto.IsTempPass ? 1 : 0,
+                    // ✅ Convertir enum a decimal (0 o 1)
+                    IsTempPass = (decimal)usuariodto.IsTempPass,
                     VigenciaPass = usuariodto.VigenciaPass,
                     FecAcceso = usuariodto.FecAcceso
                 };
@@ -58,8 +61,8 @@ namespace Mantenedor_oficial_salaventasOLD.Repositories
                 _context.Usuarios.Add(usuario);
                 await _context.SaveChangesAsync();
 
-                _logger.LogInformation("Usuario {IdUsuario} con RUT {RutNum} registrado exitosamente",
-                    usuariodto.NombreUsuario, usuariodto.RutNum);
+                _logger.LogInformation("Usuario {IdUsuario} con RUT {RutNum} registrado exitosamente con perfil {Perfil}",
+                    usuariodto.NombreUsuario, usuariodto.RutNum, usuariodto.IdPerfil);
 
                 response.Success = true;
                 response.Data = usuariodto;

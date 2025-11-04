@@ -1,18 +1,102 @@
 [
   {
     "ContainingType": "Mantenedor_oficial_salaventasOLD.Controllers.UsuarioController",
-    "Method": "RegistrarUsuario",
-    "RelativePath": "api/Usuario/registrar",
+    "Method": "RegistrarUsuarioFormulario",
+    "RelativePath": "api/Usuario/registrar-formulario",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "usuario",
-        "Type": "Mantenedor_oficial_salaventasOLD.Application.UsuarioDTO",
-        "IsRequired": true
+        "Name": "nombreUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "codUnidad",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "perfil",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "rutNum",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "rutDgv",
+        "Type": "System.Char",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombres",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "apellido1",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "apellido2",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "activo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "mail",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "anexo",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "isTempPass",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 401
+      }
+    ]
   }
 ]
